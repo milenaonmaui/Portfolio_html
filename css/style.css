@@ -8,7 +8,7 @@ Developed @ One Month in NYC
 */
 
 body {
-	/*background: url('../images/cookie-monster.jpg');*/
+	background: url('../images/kiting.jpg');
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
@@ -16,4 +16,28 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+}
+
+#container {
+	background-color: #0b8383;
+	width: 424px;
+	color: dde5d9;
+	padding: 12px;
+	border-radius: 10px;
+}
+h1 {
+	font-size: 80px;
+	font-family: 'Kaushan Script', cursive;
+}
+h2 {
+	background-color:#dde5d9;
+	color:   #0b8383;
+	padding: 10px;
+	border-radius: 5px;
+	font-family: 'Kaushan Script', cursive;
+	font-size:40px;
+}
+a {
+	color:  #6bbe9c;
+	text-decoration: none; 
 }
